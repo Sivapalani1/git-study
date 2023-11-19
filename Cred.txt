@@ -1,2 +1,0 @@
-user :siva
-psw : 123
